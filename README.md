@@ -22,10 +22,12 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 9. Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
 
-Loading the data
+Loading the data : 
+
 Use data from the dates 2007-02-01 and 2007-02-02.Read the data from just those dates rather than reading in the entire dataset and subsetting to those dates.
 Convert the Date and Time variables to Date/Time classes in R using the strptime()  and as.Date() functions.
 Missing values are coded as ?
 
 Task :
+
 Construct plots using base plotting system. 
